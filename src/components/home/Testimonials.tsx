@@ -20,7 +20,7 @@ export default function Testimonials() {
   }
 
   return (
-    <section className="bg-bg-alt py-20 md:py-28 lg:py-36">
+    <section className="bg-bg py-20 md:py-28 lg:py-36">
       <Container>
         <SectionHeading
           label="Testimonials"

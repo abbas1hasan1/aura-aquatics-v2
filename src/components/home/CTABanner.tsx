@@ -8,7 +8,7 @@ import { slideInLeft, slideInRight } from '@/lib/animations';
 
 export default function CTABanner() {
   return (
-    <section className="bg-bg-alt py-20 md:py-28 lg:py-36">
+    <section className="bg-bg py-20 md:py-28 lg:py-36">
       <Container>
         <div className="flex flex-col items-center gap-12 lg:flex-row lg:items-center lg:gap-20">
           {/* Text */}

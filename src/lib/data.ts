@@ -151,7 +151,7 @@ export const projects = [
     location: 'Dallas, TX',
     description:
       'Full-service pool management for an exclusive country club featuring a resort-style pool complex.',
-    image: '/images/pool-aerial.jpg',
+    image: '/images/project-1.jpg',
     category: 'Club Management',
   },
   {
@@ -159,7 +159,7 @@ export const projects = [
     location: 'Houston, TX',
     description:
       'Lifeguard staffing and pool maintenance for a premier racquet and swim club in the heart of Houston.',
-    image: '/images/pool-community.jpg',
+    image: '/images/project-2.jpg',
     category: 'Staffing & Maintenance',
   },
   {
@@ -167,7 +167,7 @@ export const projects = [
     location: 'Sugar Land, TX',
     description:
       'Comprehensive community pool management serving over 500 families with daily lifeguard coverage.',
-    image: '/images/pool-underwater.jpg',
+    image: '/images/project-3.jpg',
     category: 'Community Management',
   },
 ];
@@ -180,7 +180,7 @@ export const articles = [
       'Understanding the fundamentals of pool water chemistry is key to maintaining a safe and inviting swimming environment. Learn about pH levels, chlorine, and alkalinity.',
     date: '2025-03-15',
     readTime: '5 min read',
-    image: '/images/pool-water-blue.jpg',
+    image: '/images/article-1.jpg',
     category: 'Maintenance',
   },
   {
@@ -190,7 +190,7 @@ export const articles = [
       'Discover why hiring professionally trained lifeguards is critical for pool safety and how it protects your community and your liability.',
     date: '2025-02-28',
     readTime: '4 min read',
-    image: '/images/service-lifeguard.jpg',
+    image: '/images/article-2.jpg',
     category: 'Safety',
   },
   {
@@ -200,7 +200,7 @@ export const articles = [
       'A step-by-step guide to getting your pool ready for the busy summer months, from equipment checks to staff onboarding.',
     date: '2025-02-10',
     readTime: '6 min read',
-    image: '/images/hero-pool.jpg',
+    image: '/images/article-3.jpg',
     category: 'Management',
   },
 ];
